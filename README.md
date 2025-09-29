@@ -37,31 +37,7 @@ It combines **instant messaging**, **group collaboration**, and **profile manage
 
 ---
 
-## 📱 App Showcase
 
-### Demo Screenshots
-
-#### Authentication Flow
-
-<table>
-  <tr>
-    <td><b>Login</b><br><img src="assets/screenshots/login.png" width="200"/></td>
-    <td><b>Register</b><br><img src="assets/screenshots/register.png" width="200"/></td>
-    <td><b>Onboarding</b><br><img src="assets/screenshots/onboarding.png" width="200"/></td>
-  </tr>
-</table>
-
-#### Main App Features
-
-<table>
-  <tr>
-    <td><b>Dashboard</b><br><img src="assets/screenshots/dashboard.png" width="200"/></td>
-    <td><b>Chat List</b><br><img src="assets/screenshots/chat_list.png" width="200"/></td>
-    <td><b>Group Chat</b><br><img src="assets/screenshots/group_chat.png" width="200"/></td>
-  </tr>
-</table>
-
----
 
 ## 🏗️ Architecture
 
@@ -117,3 +93,4 @@ flutter run
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 ---
+
