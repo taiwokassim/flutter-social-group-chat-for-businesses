@@ -1,0 +1,239 @@
+{
+    "chats": "Chats",
+
+    "dashboard": "Dashboard",
+
+    "profile": "Profile",
+
+    "giveRelatedPermission": "Please give related permission to use this feature.",
+
+    "lastMessageOn": "Last message on {memberlastMessageTime}",
+     "@lastMessageOn": {
+      "placeholders": {
+        "memberlastMessageTime": {}
+      }
+    },
+
+    "startNewConversation": "Start a new conversation...",
+
+    "search": "Search",
+
+    "searchSomeone": "Search someone...",
+
+    "beDeepIntoTheConversation": "Start a new conversation here",
+
+    "attachment": "Attachment",
+
+    "createNewGroupChat": "Create a new group chat!",
+
+    "createNewOneToOneChat": "Create a new one to one chat!",
+
+    "privateChatOption": "Private Chat",
+
+    "groupChatOption": "Group Chat",
+
+    "groupName": "Group Name",
+
+    "yourInspirationalGroupName": "My inspirational group name is...",
+
+    "userNameCanNotBeAnEmpty": "Username can not be an empty!",
+
+    "userNameCanNotBeLongerThanTwentyCharacters": "Username can not be longer than twenty characters!",
+
+    "userNameCanNotBeShorterThanThreeCharacters": "Username cannot be shorter than 3 characters",
+
+    "createYourProfile": "Create your profile!",
+
+    "animatedText1": "Choose a unique username to stand out in group chats",
+
+    "animatedText2": "Adding a profile photo helps friends recognize you easily",
+
+    "animatedText3": "Your profile will be visible to all your contacts",
+
+    "animatedText4": "Complete your profile to unlock all features and connect with people",
+
+    "createdAtText": "Created at",
+
+    "signIn": "Sign In",
+
+    "signInWithPhoneNumber": "Sign In With Phone Number",
+    
+    "phoneNumber": "Phone Number",
+
+    "smsInformationMessage": "We will send you an SMS message to verify your phone number. Message and data rates may apply.",
+
+    "verification": "Verification",
+
+    "confirmation": "CONFIRMATION",
+
+    "confirmationInfo": "Please enter the 6-digit code we just sent to ",
+
+    "confirm": "Confirm",
+
+    "verifyCode": "Verify Code",
+
+    "resendCode": "RESEND CODE",
+    
+    "codeResent": "Code resent successfully",
+    
+    "username": "Username",
+
+    "serverError": "Server Error!",
+
+    "tooManyRequests": "Too Many Requests!",
+
+    "deviceNotSupported": "Device Not Supported!",
+
+    "smsTimeout": "SMS Timeout!",
+
+    "sessionExpired": "Session Expired!",
+
+    "invalidVerificationCode": "Invalid Verification Code!",
+
+    "continueText": "Continue",
+    
+    "phoneNumberRequired": "Phone number is required",
+    
+    "invalidPhoneNumber": "Please enter a valid phone number",
+
+    "welcomeToSocialChat": "Welcome to Social Chat",
+
+    "letsSetupYourProfile": "Let's set up your profile",
+
+    "addYourDetails": "Add your details",
+
+    "changePhoto": "Change photo",
+
+    "addPhoto": "Add photo",
+
+    "addPhotoOptional": "Add photo (optional)",
+
+    "profilePhotoAdded": "Profile photo added",
+    
+    "chooseAnOption": "Choose an option",
+    
+    "chooseFromGallery": "Choose from gallery",
+    
+    "removePhoto": "Remove photo",
+    
+    "errorSelectingImage": "Error selecting image: {error}",
+    "@errorSelectingImage": {
+      "placeholders": {
+        "error": {}
+      }
+    },
+
+    "tips": "Tips",
+
+    "invalidUsername": "Username can only contain letters, numbers, underscores and hyphens",
+
+    "usernameValidationMessage": "Username must be between 3-20 characters with no special characters",
+
+    "appName": "Flutter Social Chat",
+
+    "appTagline": "Stay connected with friends and family",
+
+    "justAMoment": "Just a moment",
+
+    "startingUp": "Starting up",
+
+    "verifyingAccount": "Verifying account",
+
+    "accountVerified": "Account verified",
+
+    "loadingChats": "Loading chats...",
+
+    "takingToChats": "Taking you to your chats",
+
+    "signOut": "Sign Out",
+
+    "signOutConfirmation": "Are you sure you want to sign out?",
+
+    "cancel": "Cancel",
+
+    "contactInformation": "Contact Information",
+
+    "userId": "User ID",
+
+    "lastActive": "Last Active",
+
+    "accountStatus": "Account Status",
+
+    "accountType": "Account Type",
+
+    "accountActivity": "Account Activity",
+
+    "activeStatus": "Active",
+
+    "restrictedStatus": "Restricted",
+
+    "normalStatus": "Normal",
+
+    "regularUser": "Regular User",
+
+    "accountDetails": "Account Details",
+
+    "startGroupChat": "Create Group Chat",
+    
+    "startPrivateChat": "Start Chat",
+    
+    "chatButtonDisabled": "Select users to start",
+    
+    "readyToCreateGroup": "Ready to create group!",
+    
+    "selectUserToChat": "Select a user to chat with",
+    
+    "deselectUser": "Tap to deselect",
+
+    "usersSelected": "users selected",
+
+    "noUsersFound": "No users found",
+    
+    "failedToLoadUsers": "Failed to load users",
+    
+    "enough": "Enough",
+    
+    "min2Required": "Min. 2 required",
+    
+    "creatingGroup": "Creating Group",
+    
+    "startingChat": "Starting Chat...",
+    
+    "selectUsersAndNameGroup": "Select at least 2 users and provide a valid group name",
+    
+    "groupNameCannotBeEmpty": "Group name cannot be empty",
+    
+    "atLeast3CharactersRequired": "At least 3 characters required",
+    
+    "maximum20CharactersAllowed": "Maximum 20 characters allowed",
+    
+    "enterInspiringGroupName": "Enter an inspiring group name",
+
+    "online": "Online",
+
+    "yourMessages": "Your messages",
+
+    "tapToChat": "Tap below to chat with friends",
+
+    "newLabel": "New",
+
+    "chatNotFound": "Chat not found",
+
+    "chatNotExist": "The chat you are looking for does not exist.",
+
+    "somethingWentWrong": "Something went wrong",
+
+    "reconnectingToChat": "Reconnecting to chat...",
+
+    "loadingProfile": "Loading profile...",
+
+    "retry": "Retry",
+    
+    "connectingToChat": "Connecting to chat...",
+
+    "unnamedGroup": "Unnamed Group",
+    
+    "sendMessageToStartConversation": "Send a message to start the conversation",
+
+    "connectionFailed": "Connection Failed!"
+}
